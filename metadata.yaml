@@ -1,4 +1,8 @@
 _repo: Chroniques-de-J-Froissart-Tome-Premier-2eme-partie-1307-1340_48855
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48855-h/images/cover.jpg
 creator:
   author:
     agent_name: Froissart, Jean
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '5170'
     url: http://www.gutenberg.org/2009/agents/5170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48855#Chroniques-de-J-Froissart-Tome-Premier-2eme-partie-1307-1340
 gutenberg_issued: '2015-05-02'
 gutenberg_type: Text
 identifiers:
