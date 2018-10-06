@@ -24,5 +24,7 @@ language: fr
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Chroniques de J. Froissart, Tome Premier, 2ème partie. (1307-1340)
 url: http://www.gutenberg.org/ebooks/48855
